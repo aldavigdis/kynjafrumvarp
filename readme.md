@@ -69,7 +69,7 @@ Reglur sem gilda um konu sem gengur með og fæðir barn gilda einnig um einstak
 
 Ráðherra skipar sérfræðinefnd um breytingar á kynskráningu barna til fjögurra ára í senn. Í nefndinni eiga sæti þrír einstaklingar. Einn þeirra skal vera læknir með barnalækningar sem sérgrein, tilnefndur af landlækni, annar sálfræðingur með barnasálfræði sem sérsvið, tilnefnd-ur af Sálfræðingafélagi Íslands, og sá þriðji lögfræðingur með sérþekkingu á réttindum barna, tilnefndur af ráðherra sem fer með mannréttindamál.
 
-Sérfræðinefndin tekur ákvarðanir skv. 3. mgr. 5. gr. Við meðferð mála getur nefndin aflað álits annarra sérfræðinga eftir því sem ástæða þykir til.
+Sérfræðinefndin tekur ákvarðanir skv. 3. mgr. 5. gr. og 3. og 4. mgr. 12. gr. Við meðferð mála getur nefndin aflað álits annarra sérfræðinga eftir því sem ástæða þykir til.
 
 Nefndarmenn og sérfræðingar sem aflað er umsagna hjá samkvæmt þessari grein skulu gæta fyllsta trúnaðar um málefni þeirra sem til nefndarinnar leita.
 
@@ -89,7 +89,19 @@ Um undantekningar frá meginreglu 1. mgr. gilda lög um réttindi sjúklinga.
 
 Áður en breytingar skv. 1. mgr. eru gerðar skal veita einstaklingnum ítarlegar upplýsingar um fyrirhugaða meðferð, þar á meðal um framgang hennar, áhættu og gagnsemi, hvort hún hafi áhrif á getu hans til að auka kyn sitt, svo og um önnur hugsanleg úrræði og afleiðingar þess ef ekkert verður aðhafst. Einnig skal einstaklingnum boðið að leita álits annars sérfræðings um nauðsyn meðferðarinnar honum að kostnaðarlausu. Hafi meðferð í för með sér skerta getu einstaklings til að auka kyn sitt eða varanlega ófrjósemi skal upplýsa hann um möguleika á varðveislu kynfrumna.
 
-### 12. gr: Teymi Landspítala um kynvitund og breytingar á kyneinkennum.
+### 12. gr: Breytingar á kyneinkennum barna með ódæmigerð kyneinkenni.
+
+Ekki skal gera varanlegar breytingar á kynfærum, kynkirtlum eða öðrum kyneinkennum barna sem fæðast með ódæmigerð kyneinkenni ef mögulegt er að fresta þeim þar til barnið getur veitt upplýst samþykki sitt fyrir meðferðinni. Einungis er heimilt að ráðast í slíkar aðgerðir ef brýnar heilsufarslegar ástæður krefjast þess. Félagslegar, sálfélagslegar og útlitslegar ástæður geta ekki réttlætt slík inngrip í líkama barns.
+
+Forsjáraðilar skulu veita samþykki fyrir meðferð barns yngra en 16 ára sem gera þarf vegna brýnna heilsufarslegra ástæðna og skulu þeim veittar þær upplýsingar sem greinir í 3. mgr. 11. gr. Skal þeim jafnframt boðið að leita álits annars sérfræðings um nauðsyn meðferðarinnar og skal það vera þeim að kostnaðarlausu. Í ákvarðanatökuferlinu skulu barnið og forsjáraðilar njóta ráðgjafar og stuðnings frá teymi barna- og unglingageðdeildar um kynvitund og ódæmigerð kyneinkenni, sbr. 14. gr.
+
+Ákvörðun um aðgerð til að breyta kyneinkennum barns undir 16 ára aldri skal tekin með hagsmuni þess að leiðarljósi og vera í samræmi við vilja þess og þróun kynvitundar. Skilyrði er að forsjáraðilar veiti samþykki sitt og einnig skal afla samþykkis sérfræðinefndar skv. 9. gr. vegna aðgerða sem ekki falla undir 2. mgr. Skal niðurstaða hennar byggð á könnun á viðhorfum barnsins til breytingarinnar.
+
+Barn sem komið er að kynþroska getur að eigin ósk og að fengnu samþykki sérfræðinefndar skv. 9. gr. undirgengist meðferð til að fresta kynþroska óháð samþykki forsjáraðila.
+
+Læknar sem framkvæma aðgerðir samkvæmt þessari grein skulu halda skrá yfir þær og veita landlækni árlega upplýsingar um fjölda og eðli aðgerða og aldur þeirra sem undirgangast þær.
+
+### 13. gr: Teymi Landspítala um kynvitund og breytingar á kyneinkennum.
 
 Á Landspítala skal starfa teymi sérfræðinga um kynvitund og breytingar á kyneinkennum, skipað af forstjóra sjúkrahússins. Í teyminu skulu vera félagsráðgjafi, kynjafræðingur og sérfræðingar á sviði geðlækninga, sálfræði, innkirtlalækninga og skurðlækninga. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs. Um réttindi og skyldur starfsfólks teyma samkvæmt þessari grein og 13. gr. gilda ákvæði laga um heilbrigðisstarfsmenn.
 
@@ -99,7 +111,7 @@ Teymið setur sér verklagsreglur og skulu þær vera í samræmi við viðurken
 
 Ráðherra sem fer með málefni heilbrigðisþjónustu getur sett nánari ákvæði um verkefni og þjónustu teymisins í reglugerð.
 
-### 13. gr: Teymi barna- og unglingageðdeildar um kynvitund og ódæmigerð kyneinkenni.
+### 14. gr: Teymi barna- og unglingageðdeildar um kynvitund og ódæmigerð kyneinkenni.
 
 Á barna- og unglingageðdeild Landspítala skal starfa teymi sérfræðinga um kynvitund og ódæmigerð kyneinkenni, skipað af forstjóra sjúkrahússins. Í teyminu skulu vera félagsráðgjafi, kynjafræðingur og sérfræðingar á sviði barnageðlækninga, barnasálfræði og barnainnkirtla-lækninga. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs.
 
@@ -107,21 +119,21 @@ Teymi barna- og unglingageðdeildar veitir börnum yngri en 18 ára, sem upplifa
 
 Teymið setur sér verklagsreglur og skulu þær vera í samræmi við viðurkenndar vinnureglur á alþjóðlegum vettvangi. Haft skal samráð við samtök trans fólks og intersex fólks um samn-ingu reglnanna og reglulega uppfærslu þeirra. Ráðherra sem fer með málefni heilbrigðisþjón-ustu getur sett nánari ákvæði um verkefni og þjónustu teymisins í reglugerð.
 
-### 14. gr: Þátttaka Sjúkratrygginga Íslands.
+### 15. gr: Þátttaka Sjúkratrygginga Íslands.
 
 Rétt til að nýta sér þjónustu teyma skv. 12. og 13. gr. eiga þeir sem eru sjúkratryggðir samkvæmt lögum um sjúkratryggingar.
 
 ## IV. kafli: Ýmis ákvæði.
 
-### 15. gr: Sektir.
+### 16. gr: Sektir.
 
 Brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim geta varðað sektum nema þyngri refsing sé áskilin í öðrum lögum. Sektir renna í ríkissjóð.
 
-### 16. gr: Reglugerðarheimild.
+### 17. gr: Reglugerðarheimild.
 
 Ráðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara, t.d. um kröfur til gagna sem lögð eru fram skv. 1. mgr. 10. gr.
 
-### 17. gr: Gildistaka.
+### 18. gr: Gildistaka.
 
 Lög þessi taka þegar gildi.
 
@@ -129,7 +141,7 @@ Við gildistöku laga þessara falla úr gildi lög um réttarstöðu einstaklin
 
 Þrátt fyrir ákvæði 1. mgr. hafa aðilar sem skrásetja kyn 18 mánaða frest frá gildistöku laga þessara til að laga skráningarform, eyðublöð, skilríki og þess háttar að fyrirmælum 2. mgr. 6. gr.
 
-### 18. gr: Breytingar á öðrum lögum.
+### 19. gr: Breytingar á öðrum lögum.
 
 Við gildistöku laga þessara verða eftirfarandi breytingar á öðrum lögum:
 
@@ -177,13 +189,3 @@ d. Við 2. mgr. 70. gr. laganna bætist nýr málsliður, svohljóðandi: Þó g
 #### 4. Lög um aukatekjur ríkissjóðs, nr. 88/1991, með síðari breytingum:
 
 Á eftir orðunum „um mannanöfn“ í 26. tölul. 1. mgr. 14. gr. laganna kemur: og leyfi til breytinga á skrán-ingu kyns samkvæmt lögum um kynrænt sjálfræði, ásamt nafnbreytingu, þó ekki breytinga skv. 3. mgr. 5. gr. þeirra laga.
-
-## Ákvæði til bráðabirgða
-
-### I.
-
-Ráðherra skipar starfshóp til að fjalla um málefni barna sem fæðast með ódæmigerð kyneinkenni, þar á meðal um heilbrigðisþjónustu við þau, og gera tillögur um úrbætur. Einnig skal hópnum falið að semja frumvarp til laga um breytingar á lögum þessum sem feli í sér að bætt verði við lögin ákvæði sem fjallar um breytingar á kyneinkennum barna sem fæðast með ódæmigerð kyneinkenni. Í hópnum skulu vera barnaskurðlæknir, barnainnkirtlalæknir, barna-sálfræðingur, fulltrúi Intersex Íslands, fulltrúi Samtakanna '78, kynjafræðingur, siðfræðingur og tveir lögfræðingar, annar með sérþekkingu á réttindamálum barna en hinn á mannréttind-um. Skal hópurinn skila niðurstöðum sínum og tillögum eins fljótt og unnt er eftir gildistöku laga þessara.
-
-### II.
-
-Ráðherra skipar starfshóp til að fjalla um og gera tillögur um breytingar á öðrum lögum sem nauðsynlegar eru til að tryggja réttindi trans fólks og intersex fólks, þar á meðal barnalögum, nr. 76/2003, og lögum um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna, nr. 55/1996, svo og reglum um greiðsluþátttöku sjúkra-trygginga vegna aðgerða sem tengjast kynleiðréttingu. Skal hópurinn skila niðurstöðum sínum og tillögum eins fljótt og unnt er eftir gildistöku laga þessara.
