@@ -97,7 +97,7 @@ Um undantekningar frá meginreglu 1. mgr. gilda lög um réttindi sjúklinga.
 
 Á Landspítala skal starfa teymi sérfræðinga um kynvitund og breytingar á kyneinkennum, skipað af forstjóra sjúkrahússins. Teymið skal vera þverfaglegt og skipað fagfólki með viðeigandi þekkingu og reynslu. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs m.a. svo að tryggja megi þekkingu á félagslegum þætti kynvitundar. Um réttindi og skyldur starfsfólks teyma samkvæmt þessari grein og 13. gr. gilda ákvæði laga um heilbrigðisstarfsmenn.
 
-Teymið veitir skjólstæðingum, 18 ára og eldri, upplýsingar, ráðgjöf og meðferð í samræmi við þarfir hvers og eins. Þeir veita jafnframt aðstandendum skjólstæðinga upplýsingar og ráðgjöf.
+Teymið veitir skjólstæðingum, 18 ára og eldri, upplýsingar, ráðgjöf og meðferð í samræmi við þarfir hvers og eins. Teymið veitir jafnframt aðstandendum skjólstæðinga upplýsingar og ráðgjöf.
 
 Teymið setur sér verklagsreglur og skulu þær vera í samræmi við viðurkenndar vinnureglur á alþjóðlegum vettvangi. Haft skal samráð við samtök trans fólks og intersex fólks um samningu reglnanna og reglulega uppfærslu þeirra. Synji teymið einstaklingi um meðferð sem felur í sér breytingu á kyneinkennum hans getur hann skotið málinu til landlæknis. Ákvörðun landlæknis er kæranleg til ráðuneytis heilbrigðismála.
 
@@ -105,11 +105,11 @@ Ráðherra sem fer með málefni heilbrigðisþjónustu getur sett nánari ákv�
 
 ### 13. gr: Teymi barna- og unglingageðdeildar um kynvitund og ódæmigerð kyneinkenni.
 
-Á barna- og unglingageðdeild Landspítala skal starfa teymi sérfræðinga um kynvitund og ódæmigerð kyneinkenni, skipað af forstjóra sjúkrahússins. Í teyminu skulu vera félagsráðgjafi, kynjafræðingur og sérfræðingar á sviði barnageðlækninga, barnasálfræði og barnainnkirtla-lækninga. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs.
+Á barna- og unglingageðdeild Landspítala skal starfa teymi sérfræðinga um kynvitund og ódæmigerð kyneinkenni, skipað af forstjóra sjúkrahússins. Teymið skal vera þverfaglegt og skipað fagfólki með viðeigandi þekkingu og reynslu. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs m.a. svo að tryggja megi þekkingu á félagslegum þætti kynvitundar.
 
-Teymi barna- og unglingageðdeildar veitir börnum yngri en 18 ára, sem upplifa misræmi milli kynvitundar sinnar og þess kyns sem þeim var úthlutað við fæðingu, meðferð í samræmi við þarfir hvers og eins og veitir forsjáraðilum þeirra stuðning og ráðgjöf. Jafnframt veitir teymið börnum sem fæðast með ódæmigerð kyneinkenni og forsjáraðilum þeirra stuðning og ráðgjöf. Teymið gengst fyrir því að skjólstæðingar þess geti notið jafningjafræðslu og hefur samstarf við samtök trans fólks og intersex fólks vegna þess.
+Teymi barna- og unglingageðdeildar veitir börnum yngri en 18 ára, sem upplifa misræmi milli kynvitundar sinnar og þess kyns sem þeim var úthlutað við fæðingu, meðferð í samræmi við þarfir hvers og eins og veitir forsjáraðilum þeirra stuðning og ráðgjöf. Jafnframt veitir teymið börnum sem fæðast með ódæmigerð kyneinkenni og forsjáraðilum þeirra stuðning og ráðgjöf. Enn fremur metur teymið hvort það sé barni á aldrinum 16–18 ára fyrir bestu að undirgangast varanlegar breytingar á kynfærum, kynkirtlum eða öðrum kyneinkennum einstaklings, sbr. 11. gr.
 
-Teymið setur sér verklagsreglur og skulu þær vera í samræmi við viðurkenndar vinnureglur á alþjóðlegum vettvangi. Haft skal samráð við samtök trans fólks og intersex fólks um samn-ingu reglnanna og reglulega uppfærslu þeirra. Ráðherra sem fer með málefni heilbrigðisþjón-ustu getur sett nánari ákvæði um verkefni og þjónustu teymisins í reglugerð.
+Teymið setur sér verklagsreglur og skulu þær vera í samræmi við viðurkenndar vinnureglur á alþjóðlegum vettvangi. Ráðherra sem fer með málefni heilbrigðisþjón-ustu getur sett nánari ákvæði um verkefni og þjónustu teymisins í reglugerð.
 
 ### 14. gr: Þátttaka Sjúkratrygginga Íslands.
 
