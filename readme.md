@@ -153,32 +153,28 @@ b. 2. málsl. 1. mgr. 6. gr. laganna fellur brott.
 
 c. Við 3. mgr. 8. gr. laganna bætist nýr málsliður, svohljóðandi: Einstaklingi sem hefur hlutlausa skráningu kyns í þjóðskrá er heimilt að nota nafn föður eða móður í eignarfalli án viðbótar eða að viðbættu bur.
 
-d. Eftirfarandi breytingar verða á 13. gr. laganna:
+d. Á eftir 3. mgr. 13. gr. laganna kemur ný málsgrein, svohljóðandi:
 
-1. Í stað orðanna „18 ára“ í 2., 3. og 4. mgr. kemur: 15 ára.
-2. Á eftir 3. mgr. kemur ný málsgrein, svohljóðandi: Barn sem er yngra en 15 ára getur með samþykki forsjáraðila sinna eða sérfræðinefndar skv. 9. gr. laga um kynrænt sjálfræði breytt eiginnafni og millinafni sínu samhliða breytingu á skráningu kyns.
+Barn yngra en 18 ára getur með samþykki forsjáraðila sinna eða sérfræðinefndar skv. 9. gr. laga um kynrænt sjálfræði breytt eiginnafni og millinafni sínu samhliða breytingu á skráningu kyns
 
-e. Eftirfarandi breytingar verða á 14. gr. laganna:
+e. Á eftir 6. mgr. 14. gr. laganna kemur ný málsgrein, svohljóðandi:
 
-1. Í stað orðanna „18 ára“ í 1. og 8. mgr. kemur: 15 ára.
-2. Á eftir 6. mgr. kemur ný málsgrein, svohljóðandi: *Barn yngra en 15 ára getur með samþykki forsjáraðila sinna eða sérfræði-nefndar skv. 9. gr. laga um kynrænt sjálfræði óskað eftir breytingu á kenninafni sínu í tengslum við breytingu á skráðu kyni. Breyting samkvæmt þessari málsgrein getur einungis falist í að endingu kenninafns sé breytt til samræmis við kyn barnsins. Ef barnið fær hlutlausa skráningu kyns gildir ákvæði 2. málsl. 3. mgr. 8. gr.*
+Barn yngra en 18 ára getur með samþykki forsjáraðila sinna eða sérfræðinefndar skv. 9. gr. laga um kynrænt sjálfræði óskað eftir breytingu á kenninafni sínu í tengslum við breytingu á skráðu kyni. Breyting samkvæmt þessari málsgrein getur einungis falist í að endingu kenninafns sé breytt til samræmis við kyn barnsins. Ef barnið fær hlutlausa skráningu kyns gildir ákvæði 2. málsl. 3. mgr. 8. gr.
 
-f. Í stað orðanna „18 ára“ í 16. gr. laganna kemur: 15 ára.
-
-g. Á eftir 16. gr. laganna kemur ný grein, 16. gr. a, svohljóðandi: *Einstaklingur sem neytir réttar til að breyta skráningu kyns síns í þjóðskrá hefur rétt til að breyta eiginnafni, millinafni og kenninafni. Ákvæði 5. mgr. 13. gr. eiga við um breytingu á eiginnafni og millinafni samkvæmt þessari grein.*
+f. Á eftir 16. gr. laganna kemur ný grein, 16. gr. a, svohljóðandi: *Einstaklingur sem neytir réttar til að breyta skráningu kyns síns í þjóðskrá hefur rétt til að breyta eiginnafni, millinafni og kenninafni. Ákvæði 5. mgr. 13. gr. eiga við um breytingu á eiginnafni og millinafni samkvæmt þessari grein.*
 
 #### 3. Lög um fullnustu refsinga, nr. 15/2016, með síðari breytingum:
 
 a. Á eftir orðunum „aldurs, kynferðis“ í 2. málsl. 1. mgr. 21. gr. laganna kemur: kynvitundar.
 
-b. Í stað orðsins „kvenfangi“ í 1. mgr. 30. gr. laganna kemur: fangi.
+b. Orðið „kvenfangi“ í 1. mgr. 30. gr. laganna fellur brott.
 
 c. Eftirfarandi breytingar verða á 43. gr. laganna:
 
 1. Í stað orðsins „gagnstæðu“ í 2. mgr. kemur: öðru.
-2. Við bætist ný málsgrein, svohljóðandi: *Þrátt fyrir ákvæði 1. og 2. mgr. getur Fangelsismálastofnun ákveðið annað ef brýnir hagsmunir fangans eða annarra fanga krefjast þess*
+2. Við bætist ný málsgrein, svohljóðandi: *Þrátt fyrir ákvæði 1. og 2. mgr. getur forstöðumaður, í samráði við Fangelsismálastofnun ákveðið annað ef brýnir hagsmunir fangans eða annarra fanga krefjast þess*
 
-d. Við 2. mgr. 70. gr. laganna bætist nýr málsliður, svohljóðandi: Þó getur Fangelsis-málastofnun ákveðið annað ef brýnir hagsmunir fangans eða annarra fanga krefjast þess.
+d. Við 2. mgr. 70. gr. laganna bætist nýr málsliður, svohljóðandi: Þó getur forstöðumaður ákveðið annað ef brýnir hagsmunir fangans krefjast þess.
 
 #### 4. Lög um aukatekjur ríkissjóðs, nr. 88/1991, með síðari breytingum:
 
