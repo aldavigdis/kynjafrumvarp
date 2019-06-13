@@ -57,7 +57,7 @@ Breyting á skráningu kyns samkvæmt lögum þessum og samhliða nafnbreyting s
 
 ### 8. gr: Áhrif breyttrar skráningar kyns á réttarstöðu.
 
-Réttarstaða barns gagnvart foreldri sem breytt hefur opinberri skráningu kyns síns, sbr. 4. gr., er sú sama og áður en breytingin var gerð.
+Réttarstaða barns gagnvart foreldri sem breytt hefur opinberri skráningu kyns síns, sbr. 4. gr. og 5. gr, er sú sama og áður en breytingin var gerð.
 
 Einstaklingur sem hefur breytt opinberri skráningu kyns síns nýtur allra þeirra réttinda að lögum sem skráð kyn ber með sér.
 
