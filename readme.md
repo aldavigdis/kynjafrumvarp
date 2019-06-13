@@ -125,7 +125,7 @@ Gera má lögaðila sekt samkvæmt reglum II. kafla A almennra hegningarlaga fyr
 
 ### 16. gr: Reglugerðarheimild.
 
-Ráðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara, t.d. um kröfur til gagna sem lögð eru fram skv. 1. mgr. 10. gr.
+Ráðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara, t.d. um kröfur til gagna sem lögð eru fram skv. 1. mgr. 10. gr. og um störf sérfræðinefndar um breytingu á kynskráningu barna skv. 9. gr., m.a. um það í hvaða tilvikum barnaverndarnefnd skuli vera gert viðvart við störf sérfræðinefndarinnar.
 
 ### 17. gr: Gildistaka.
 
