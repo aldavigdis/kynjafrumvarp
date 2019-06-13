@@ -4,7 +4,7 @@
 
 ### 1. gr: Markmið
 
-Lög þessi kveða á um rétt einstaklinga til þess að skilgreina sjálfir kyn sitt og miða þannig að því að tryggja að kynvitund þeirra njóti viðurkenningar. Einnig er lögunum ætlað að standa vörð um rétt einstaklinga til líkamlegrar friðhelgi.
+Lög þessi kveða á um rétt einstaklinga til þess að skilgreina kyn sitt og miða þannig að því að tryggja að kynvitund þeirra njóti viðurkenningar. Einnig er lögunum ætlað að standa vörð um rétt einstaklinga til líkamlegrar friðhelgi.
 
 ### 2. gr: Orðskýringar
 
