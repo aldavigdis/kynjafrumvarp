@@ -29,13 +29,13 @@ Sérhver einstaklingur nýtur, í samræmi við aldur og þroska, óskoraðs ré
 
 ### 4. gr: Réttur til að breyta opinberri skráningu kyns.
 
-Sérhver einstaklingur sem náð hefur 15 ára aldri hefur rétt til að breyta skráningu á kyni sínu í þjóðskrá. Beiðni um slíka breytingu skal beint til Þjóðskrár Íslands. Jafnhliða breyttri skráningu kyns á umsækjandi rétt á að breyta nafni sínu.
+Sérhver einstaklingur sem náð hefur 18 ára aldri hefur rétt til að breyta skráningu á kyni sínu í þjóðskrá. Beiðni um slíka breytingu skal beint til Þjóðskrár Íslands. Jafnhliða breyttri skráningu kyns á umsækjandi rétt á að breyta nafni sínu.
 
-Óheimilt er að gera skurðaðgerð, lyfjameðferð, hormónameðferð eða aðra læknismeðferð, svo sem geðlæknismeðferð eða sálfræðimeðferð, að skilyrði fyrir breytingu á skráningu kyns.
-
-Breyting skv. 1. mgr. felur í sér rétt einstaklingsins til að fá útgefin persónuskilríki sem samrýmast breytingunni, svo og gögn sem varða menntun hans og starfsferil.
+Beiðni um breytta skráningu kyns skal beint til Þjóðskrár Íslands. Jafnhliða breyttri skráningu kyns á barnið rétt á að breyta nafni sínu. Ákvæði 2.–4. mgr. 4. gr. gilda jafnframt um ákvæði þetta.
 
 Í opinberum skrám og öðrum opinberum gögnum skal kyn einstaklings skráð eins og það er skráð í þjóðskrá.
+
+Ákvörðun um að breyta kynskráningu barns skal tekin með hagsmuni þess að leiðarljósi og vera í samræmi við vilja þess og þróun kynvitundar. 
 
 ### 5. gr: Breyting á skráðu kyni barns sem er yngra en 15 ára.
 
