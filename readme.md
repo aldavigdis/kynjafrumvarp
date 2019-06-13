@@ -87,6 +87,8 @@ Einstaklingur sem sótt hefur um alþjóðlega vernd hér á landi getur óskað
 
 Óheimilt er að gera varanlegar breytingar á kynfærum, kynkirtlum eða öðrum kyneinkenn-um einstaklings 16 ára eða eldri án skriflegs samþykkis hans. Til varanlegra breytinga teljast meðal annars skurðaðgerðir, lyfjameðferðir og önnur óafturkræf læknisfræðileg inngrip.
 
+Þegar um er að ræða barn á aldrinum 16–18 ára þarf jafnframt mat teymis barna- og unglingageðdeildar um kynvitund og ódæmigerð kyneinkenni skv. 13. gr. á því að það sé barni fyrir bestu að framkvæma aðgerðina.
+
 Um undantekningar frá meginreglu 1. mgr. gilda lög um réttindi sjúklinga.
 
 Áður en breytingar skv. 1. mgr. eru gerðar skal veita einstaklingnum ítarlegar upplýsingar um fyrirhugaða meðferð, þar á meðal um framgang hennar, áhættu og gagnsemi, hvort hún hafi áhrif á getu hans til að auka kyn sitt, svo og um önnur hugsanleg úrræði og afleiðingar þess ef ekkert verður aðhafst. Einnig skal einstaklingnum boðið að leita álits annars sérfræðings um nauðsyn meðferðarinnar honum að kostnaðarlausu. Hafi meðferð í för með sér skerta getu einstaklings til að auka kyn sitt eða varanlega ófrjósemi skal upplýsa hann um möguleika á varðveislu kynfrumna.
