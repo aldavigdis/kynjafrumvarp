@@ -14,7 +14,7 @@ Lög þessi kveða á um rétt einstaklinga til þess að skilgreina kyn sitt og
 2. *Kyneinkenni:* Líffræðilegir þættir sem tengjast kyni, svo sem kynlitningar, hormónastarf-semi, kynkirtlar og kynfæri.
 3. *Kyntjáning:* Félagsleg tjáning einstaklings á kyni sínu.
 4. *Kynvitund:* Upplifun einstaklings af eigin kyni og skilgreining hans á því.
-5. *Líkamleg friðhelgi:* Óskoraður réttur einstaklings til sjálfræðis gagnvart eigin líkama og virðingar fyrir rétti hans til lífs, öryggis, frelsis og mannlegrar reisnar.
+5. *Líkamleg friðhelgi:* Óskoraður réttur einstaklings til sjálfræðis um eigin líkama og að borin sé virðing fyrir rétti hans til lífs, öryggis, frelsis og mannlegrar reisnar.
 
 ## II. kafli: Réttur einstaklings til að skilgreina sjálfur kyn sitt.
 
