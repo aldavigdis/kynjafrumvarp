@@ -73,6 +73,8 @@ Sérfræðinefndin tekur ákvarðanir skv. 3. mgr. 5. gr. Við meðferð mála g
 
 Nefndarmenn og sérfræðingar sem aflað er umsagna hjá samkvæmt þessari grein skulu gæta fyllsta trúnaðar um málefni þeirra sem til nefndarinnar leita.
 
+Ákvörðun sérfræðinefndar skv. 3. mgr. 5. gr. er ekki unnt að skjóta til æðra stjórnvalds nema hvað málsmeðferð varðar.
+
 ### 10. gr: Viðurkenning erlendrar kynskráningar og umsækjendur um alþjóðlega vernd.
 
 Úrskurður erlends dómstóls eða skráning erlends lögbærs yfirvalds á breyttri skráningu kyns og breyttu nafni einstaklings nýtur fullrar viðurkenningar á Íslandi.
