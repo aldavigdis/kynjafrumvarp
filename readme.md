@@ -95,9 +95,9 @@ Um undantekningar frá meginreglu 1. mgr. gilda lög um réttindi sjúklinga.
 
 ### 12. gr: Teymi Landspítala um kynvitund og breytingar á kyneinkennum.
 
-Á Landspítala skal starfa teymi sérfræðinga um kynvitund og breytingar á kyneinkennum, skipað af forstjóra sjúkrahússins. Í teyminu skulu vera félagsráðgjafi, kynjafræðingur og sérfræðingar á sviði geðlækninga, sálfræði, innkirtlalækninga og skurðlækninga. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs. Um réttindi og skyldur starfsfólks teyma samkvæmt þessari grein og 13. gr. gilda ákvæði laga um heilbrigðisstarfsmenn.
+Á Landspítala skal starfa teymi sérfræðinga um kynvitund og breytingar á kyneinkennum, skipað af forstjóra sjúkrahússins. Teymið skal vera þverfaglegt og skipað fagfólki með viðeigandi þekkingu og reynslu. Teyminu er heimilt að kalla aðra sérfræðinga til ráðgjafar og samstarfs m.a. svo að tryggja megi þekkingu á félagslegum þætti kynvitundar. Um réttindi og skyldur starfsfólks teyma samkvæmt þessari grein og 13. gr. gilda ákvæði laga um heilbrigðisstarfsmenn.
 
-Teymið veitir skjólstæðingum, 18 ára og eldri, upplýsingar, ráðgjöf og meðferð í samræmi við þarfir hvers og eins. Félagsráðgjafi og kynjafræðingur teymisins gangast fyrir því að skjólstæðingar geti notið jafningjafræðslu og hafa samstarf við samtök trans fólks vegna þess. Þeir veita jafnframt aðstandendum skjólstæðinga upplýsingar og ráðgjöf.
+Teymið veitir skjólstæðingum, 18 ára og eldri, upplýsingar, ráðgjöf og meðferð í samræmi við þarfir hvers og eins. Þeir veita jafnframt aðstandendum skjólstæðinga upplýsingar og ráðgjöf.
 
 Teymið setur sér verklagsreglur og skulu þær vera í samræmi við viðurkenndar vinnureglur á alþjóðlegum vettvangi. Haft skal samráð við samtök trans fólks og intersex fólks um samningu reglnanna og reglulega uppfærslu þeirra. Synji teymið einstaklingi um meðferð sem felur í sér breytingu á kyneinkennum hans getur hann skotið málinu til landlæknis. Ákvörðun landlæknis er kæranleg til ráðuneytis heilbrigðismála.
 
