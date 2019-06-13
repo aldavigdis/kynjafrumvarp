@@ -35,9 +35,9 @@ Beiðni um breytta skráningu kyns skal beint til Þjóðskrár Íslands. Jafnhl
 
 Í opinberum skrám og öðrum opinberum gögnum skal kyn einstaklings skráð eins og það er skráð í þjóðskrá.
 
-Ákvörðun um að breyta kynskráningu barns skal tekin með hagsmuni þess að leiðarljósi og vera í samræmi við vilja þess og þróun kynvitundar. 
+Ákvörðun um að breyta kynskráningu barns skal tekin með hagsmuni þess að leiðarljósi og vera í samræmi við vilja þess og þróun kynvitundar.
 
-### 5. gr: Breyting á skráðu kyni barns sem er yngra en 15 ára.
+### 5. gr: Breyting á skráðu kyni barns.
 
 Barn yngra en 15 ára getur með fulltingi forsjáraðila sinna breytt opinberri skráningu kyns síns. Ákvörðun um að breyta kynskráningu barns skal tekin með hagsmuni þess að leiðarljósi og vera í samræmi við vilja þess og þróun kynvitundar.
 
@@ -53,7 +53,7 @@ Opinberum aðilum og einkaaðilum sem skrásetja kyn ber að gera ráð fyrir hl
 
 ### 7. gr: Takmörkun á heimild til að breyta skráningu kyns.
 
-Breyting á skráningu kyns samkvæmt lögum þessum og samhliða nafnbreyting skal einungis heimiluð einu sinni nema sérstakar ástæður séu til annars. Óski einstaklingur aftur að breyta skráningu kyns skal hann leggja fram skriflega greinargerð um ástæður beiðninnar.
+Breyting á skráningu kyns samkvæmt lögum þessum og samhliða nafnbreyting skal einungis heimiluð einu sinni nema sérstakar ástæður séu til annars. Óski einstaklingur aftur að breyta skráningu kyns skal hann leggja fram skriflega greinargerð um ástæður beiðninnar til Þjóðskrár Íslands.
 
 ### 8. gr: Áhrif breyttrar skráningar kyns á réttarstöðu.
 
