@@ -18,14 +18,14 @@ Lög þessi kveða á um rétt einstaklinga til þess að skilgreina kyn sitt og
 
 ## II. kafli: Réttur einstaklings til að skilgreina sjálfur kyn sitt.
 
-### 3. gr: Réttur einstaklings til að skilgreina sjálfur kyn sitt.
+### 3. gr: Réttur einstaklings til að skilgreina kyn sitt.
 
-Sérhver einstaklingur nýtur óskoraðs réttar til:
+Sérhver einstaklingur nýtur, í samræmi við aldur og þroska, óskoraðs réttar til:
 
-* a. að skilgreina sjálfur kyn sitt,
+* a. að skilgreina kyn sitt,
 * b. viðurkenningar á kyni sínu, kynvitund og kyntjáningu,
 * c. að þroska persónuleika sinn í samræmi við eigin kynvitund,
-* d. líkamlegrar friðhelgi og sjálfræðis varðandi breytingar á kyneinkennum.
+* d. líkamlegrar friðhelgi og sjálfræðis um breytingar á kyneinkennum.
 
 ### 4. gr: Réttur til að breyta opinberri skráningu kyns.
 
