@@ -184,7 +184,7 @@ d. Við 2. mgr. 70. gr. laganna bætist nýr málsliður, svohljóðandi: Þó g
 
 ### I.
 
-Ráðherra skipar starfshóp til að fjalla um málefni barna sem fæðast með ódæmigerð kyneinkenni, þar á meðal um heilbrigðisþjónustu við þau, og gera tillögur um úrbætur. Einnig skal hópnum falið að semja frumvarp til laga um breytingar á lögum þessum sem feli í sér að bætt verði við lögin ákvæði sem fjallar um breytingar á kyneinkennum barna sem fæðast með ódæmigerð kyneinkenni. Í hópnum skulu vera barnaskurðlæknir, barnainnkirtlalæknir, barna-sálfræðingur, fulltrúi Intersex Íslands, fulltrúi Samtakanna '78, kynjafræðingur, siðfræðingur og tveir lögfræðingar, annar með sérþekkingu á réttindamálum barna en hinn á mannréttind-um. Skal hópurinn skila niðurstöðum sínum og tillögum eins fljótt og unnt er eftir gildistöku laga þessara.
+Ráðherra skipar starfshóp til að fjalla um málefni barna sem fæðast með ódæmigerð kyneinkenni, þar á meðal um heilbrigðisþjónustu við þau, og gera tillögur um úrbætur. Einnig skal hópnum falið að semja frumvarp til laga um breytingar á lögum þessum sem feli í sér að bætt verði við lögin ákvæði sem fjallar um breytingar á kyneinkennum barna sem fæðast með ódæmigerð kyneinkenni. Í hópnum skulu vera barnaskurðlæknir, barnainnkirtlalæknir, barna-sálfræðingur, fulltrúi Intersex Íslands, fulltrúi Samtakanna '78, kynjafræðingur, siðfræðingur og tveir lögfræðingar, annar með sérþekkingu á réttindamálum barna en hinn á mannréttind-um. Skal hópurinn skila niðurstöðum sínum og tillögum tólf mánuðum eftir gildistöku laga þessara.
 
 ### II.
 
