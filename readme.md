@@ -69,7 +69,7 @@ Reglur sem gilda um konu sem gengur með og fæðir barn gilda einnig um einstak
 
 Ráðherra skipar sérfræðinefnd um breytingar á kynskráningu barna til fjögurra ára í senn. Í nefndinni eiga sæti þrír einstaklingar. Einn þeirra skal vera læknir með barnalækningar sem sérgrein, tilnefndur af landlækni, annar sálfræðingur með barnasálfræði sem sérsvið, tilnefnd-ur af Sálfræðingafélagi Íslands, og sá þriðji lögfræðingur með sérþekkingu á réttindum barna, tilnefndur af ráðherra sem fer með mannréttindamál.
 
-Sérfræðinefndin tekur ákvarðanir skv. 3. mgr. 5. gr. Við meðferð mála getur nefndin aflað álits annarra sérfræðinga eftir því sem ástæða þykir til.
+Sérfræðinefndin tekur ákvarðanir skv. 3. mgr. 5. gr. og 3. og 4. mgr. 12. gr. Við meðferð mála getur nefndin aflað álits annarra sérfræðinga eftir því sem ástæða þykir til.
 
 Nefndarmenn og sérfræðingar sem aflað er umsagna hjá samkvæmt þessari grein skulu gæta fyllsta trúnaðar um málefni þeirra sem til nefndarinnar leita.
 
