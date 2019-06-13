@@ -189,13 +189,3 @@ d. Við 2. mgr. 70. gr. laganna bætist nýr málsliður, svohljóðandi: Þó g
 #### 4. Lög um aukatekjur ríkissjóðs, nr. 88/1991, með síðari breytingum:
 
 Á eftir orðunum „um mannanöfn“ í 26. tölul. 1. mgr. 14. gr. laganna kemur: og leyfi til breytinga á skrán-ingu kyns samkvæmt lögum um kynrænt sjálfræði, ásamt nafnbreytingu, þó ekki breytinga skv. 3. mgr. 5. gr. þeirra laga.
-
-## Ákvæði til bráðabirgða
-
-### I.
-
-Ráðherra skipar starfshóp til að fjalla um málefni barna sem fæðast með ódæmigerð kyneinkenni, þar á meðal um heilbrigðisþjónustu við þau, og gera tillögur um úrbætur. Einnig skal hópnum falið að semja frumvarp til laga um breytingar á lögum þessum sem feli í sér að bætt verði við lögin ákvæði sem fjallar um breytingar á kyneinkennum barna sem fæðast með ódæmigerð kyneinkenni. Í hópnum skulu vera barnaskurðlæknir, barnainnkirtlalæknir, barna-sálfræðingur, fulltrúi Intersex Íslands, fulltrúi Samtakanna '78, kynjafræðingur, siðfræðingur og tveir lögfræðingar, annar með sérþekkingu á réttindamálum barna en hinn á mannréttind-um. Skal hópurinn skila niðurstöðum sínum og tillögum eins fljótt og unnt er eftir gildistöku laga þessara.
-
-### II.
-
-Ráðherra skipar starfshóp til að fjalla um og gera tillögur um breytingar á öðrum lögum sem nauðsynlegar eru til að tryggja réttindi trans fólks og intersex fólks, þar á meðal barnalögum, nr. 76/2003, og lögum um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna, nr. 55/1996, svo og reglum um greiðsluþátttöku sjúkra-trygginga vegna aðgerða sem tengjast kynleiðréttingu. Skal hópurinn skila niðurstöðum sínum og tillögum eins fljótt og unnt er eftir gildistöku laga þessara.
