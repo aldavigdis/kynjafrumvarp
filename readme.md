@@ -119,7 +119,9 @@ Rétt til að nýta sér þjónustu teyma skv. 12. og 13. gr. eiga þeir sem eru
 
 ### 15. gr: Sektir.
 
-Brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim geta varðað sektum nema þyngri refsing sé áskilin í öðrum lögum. Sektir renna í ríkissjóð.
+Brot gegn 3. mgr. 4. gr., 1. málsl. 2. mgr. 6. gr. og 3. mgr. 9. gr. laga þessara og reglugerðum settum samkvæmt þeim geta varðað sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Sektir renna í ríkissjóð.
+
+Gera má lögaðila sekt samkvæmt reglum II. kafla A almennra hegningarlaga fyrir brot gegn ákvæðum skv. 1. mgr. og reglum sem settar eru samkvæmt þeim.
 
 ### 16. gr: Reglugerðarheimild.
 
