@@ -16,7 +16,7 @@ Lög þessi kveða á um rétt einstaklinga til þess að skilgreina kyn sitt og
 4. *Kynvitund:* Upplifun einstaklings af eigin kyni og skilgreining hans á því.
 5. *Líkamleg friðhelgi:* Óskoraður réttur einstaklings til sjálfræðis um eigin líkama og að borin sé virðing fyrir rétti hans til lífs, öryggis, frelsis og mannlegrar reisnar.
 
-## II. kafli: Réttur einstaklings til að skilgreina sjálfur kyn sitt.
+## II. kafli: Réttur einstaklings til að skilgreina kyn sitt.
 
 ### 3. gr: Réttur einstaklings til að skilgreina kyn sitt.
 
